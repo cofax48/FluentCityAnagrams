@@ -20,7 +20,8 @@ they are added to the anagram list and returned once all equal length words are 
   the app will be available http://localhost:8080/.
 
   The **DjangoHeroku** folder contains the Django implementation of the project
-  which is currently deployed to Heroku and is accessible now at https://fluent-city-anagrams.herokuapp.com/
+  which is currently deployed to Heroku and is accessible now at https://fluent-city-anagrams.herokuapp.com/ . 
+  Heroku was also chosen over AWS-as that is the cloud base for Fluent City.
 
   While the **PandasAndLocal** is totally local, wherein I import the given dictionary
   into a pandas dataframe and run my algorithm against the df.

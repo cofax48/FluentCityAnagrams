@@ -1,4 +1,4 @@
-**NBA Data Visualization Project**
+**Fluent City Anagrams Project**
 
 This project can be accessed at https://fluent-city-anagrams.herokuapp.com/
 
